@@ -1,0 +1,13 @@
+# Node
+node_modules/
+backend/.env
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+build/
+
+# IDE
+.vscode/
+.idea/
